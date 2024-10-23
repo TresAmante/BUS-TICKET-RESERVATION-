@@ -1,7 +1,7 @@
 # Bus-Ticket-Management---Java
 **A Gui Based Application that can reserve a seat for a long distance bus route**<br>
  The bus ticket booking system is a java project that maintains the official records of tours and travels. The whole system is made in Netbeans IDE. 
- *It also supports back-end using database*.
+
  ## Features
  > 1. Back End support
  > 2. Admin and User Dashboard with Login Systems
@@ -40,20 +40,6 @@
 
 ## Output-
 <p align="center"> <img src="output.gif"/> </p>
-
-
-
-## Fix for 
-1. Need to give the datarange for specifically for seeing the avilable tickets.<br>
-2. Admin has full access to user Deatils.<br>
-3. It only provides Bus Reservation
-
-
-## Add-ons in Future
-1. Hosting online. <br>
-2. Sending Message to users after reservation and cancellation of tickets. <br>
-3. Exceeding the Range of Database.
-4. Maintaining a permanent databases each for a specific one, unlike the temporary database used in this project.
 
 
 
